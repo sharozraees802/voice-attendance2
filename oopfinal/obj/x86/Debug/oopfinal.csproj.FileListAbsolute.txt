@@ -1,0 +1,15 @@
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.Form1.resources
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.Properties.Resources.resources
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.view.resources
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.csproj.GenerateResource.Cache
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\bin\Debug\oopfinal.exe
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\bin\Debug\oopfinal.pdb
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.CreateAccount.resources
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.exe
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.pdb
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.Attendance.resources
+C:\Users\Shehroz\Desktop\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.csprojResolveAssemblyReference.cache
+D:\course\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.exe
+D:\course\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.pdb
+F:\course\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.exe
+F:\course\OOP\oopfinal\oopfinal\obj\x86\Debug\oopfinal.pdb
